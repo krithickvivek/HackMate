@@ -30,7 +30,7 @@ Students often struggle to find suitable teams for hackathons, while teams face 
 ## How to Run the Project
 
 1. Clone the repository
-   git clone https://github.com/yourusername/HackMate.git
+   git clone https://github.com/krithickvivek/HackMate.git
 
 2. Install dependencies
    cd backend
